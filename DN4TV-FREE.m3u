@@ -32,7 +32,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="FREEMIUM", YO! MTV [HD]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_vh1-1920x751.png" group-title="FREEMIUM", VH1 US [HD]
+#EXTINF:-1 tvg-logo="https://a0.anyrgb.com/pngimg/206/1344/vh1-megahits-mtv-classic-vh1-logo-tv-music-video-television-channel-television-violet-music-magenta.png" group-title="FREEMIUM", VH1 US [HD]
 http://fl2.moveonjoy.com/VH1/index.m3u8?checkedby:DN4-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="FREEMIUM", VEVO COUNTRY MUSIC [HD]
