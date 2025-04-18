@@ -1,0 +1,119 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml"
+
+#EXTINF:-1 tvg-logo="" group-title="FREEMIUM", BARKER
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/A2Z_Channel_11_%281%29.png" group-title="FREEMIUM", A2Z [SD]
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="FREEMIUM", CCTN [HD]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moonbug2ndLogo.png/1920px-Moonbug2ndLogo.png" group-title="FREEMIUM", MOONBUG KIDS USA [HD]
+https://moonbug-rokuus.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Zoomoo_2013_Logo.png/revision/latest/scale-to-width-down/300?cb=20210909123028" group-title="FREEMIUM", ZOO MOO (KIDS) [FHD]
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Zoomoo_2013_Logo.png/revision/latest/scale-to-width-down/300?cb=20210909123028" group-title="FREEMIUM", ZOO MOO (2) [HD]
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="FREEMIUM", CALIFORNIA MUSIC CHANNEL [HD]
+https://cmc-ono.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/MTV-Logo-2010.png" group-title="FREEMIUM", MTV BIGGEST POP [HD]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fd1a252d35decbc4080c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=870&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/2153px-MTV_Classic_2021.svg.png" group-title="FREEMIUM", MTV CLASSIC [SD]
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/MTV-Logo-2010.png" group-title="FREEMIUM", MTV FLOW LATINO [HD]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="FREEMIUM", YO! MTV [HD]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_vh1-1920x751.png" group-title="FREEMIUM", VH1 US [HD]
+http://fl2.moveonjoy.com/VH1/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="FREEMIUM", VEVO COUNTRY MUSIC [HD]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="FREEMIUM", VEVO 90'S MUSIC [HD]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="FREEMIUM", VEVO 2K MUSIC [HD]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://ifood.tv/views/images/ifood_logo.png" group-title="FREEMIUM", iFOOD.TV [HD]
+https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Global_National_2013.png" group-title="FREEMIUM", GLOBAL NEWS NATIONAL [HD]
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="FREEMIUM", MYTIME MOVIE NETWORK [HD]
+https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moviesphere_logo_dark.png" group-title="FREEMIUM", MOVIESPHERE U.K [HD]
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="FREEMIUM", ACTION HOLLYWOOD MOVIES [FHD]
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="FREEMIUM", ARIRANG [FHD]
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="FREEMIUM", IMPACT! WRESTLING [FHD]
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/46-462953_red-bull-tv-logo-red-bull-tv-logo.png" group-title="FREEMIUM", REDBULL TV [HD]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="FREEMIUM", OUTDOOR CHANNEL [FHD]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://www.pdga.com/files/u245721/outside_tv_logo.png" group-title="FREEMIUM", OUTSIDE TV [HD]
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="FREEMIUM", TENNIS CHANNEL INTERNATIONAL [HD]
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="FREEMIUM", LOVE NATURE [UHD]
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://getlogo.net/wp-content/uploads/2020/10/smithsonian-channel-logo-vector.png" group-title="FREEMIUM", SMITHSONIAN CHANNEL [FHD]
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/travelxp_4k_wide.png" group-title="FREEMIUM", TRAVEL XP [HD]
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="FREEMIUM", XPLORE CHANNEL [SD]
+http://xlpore-samsungus.amagi.tv/playlist.m3u8?checkedby:DN4-IPTV
+
+
+
+#EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/growth/assets/Collections/bravo/Bravo-min.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", BRAVO [HD]
+http://fl2.moveonjoy.com/BRAVO/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG" group-title="FREEMIUM+ (LIMITED TIME ONLY)", BEIN SPORTS XTRA [HD]
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/UFC_Brand_Logo.svg/1920px-UFC_Brand_Logo.svg.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)",UFC [HD]
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://www.electricnow.tv/themes/custom/elec/electricnow/logo.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", ELECTRIC NOW [FHD]
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/2560px-FX_Logo_2023.svg.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", FX [SD]
+http://fl2.moveonjoy.com/FX/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", NICK MUSIC [SD]
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", TOONAMI AFTERMATH EAST [SD]
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?checkedby:DN4-IPTV
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Paramount_Movie_Channel.svg" group-title="FREEMIUM+ (LIMITED TIME ONLY)", PARAMOUNT MOVIES US [HD]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo=" https://cordcutting.com/wp-content/uploads/2018/03/starz-streaming-logo.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", STARZ US [SD]
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8?checkedby:DN4-IPTV
