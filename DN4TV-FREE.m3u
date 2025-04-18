@@ -100,7 +100,7 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8?checkedby:DN4-IPTV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG" group-title="FREEMIUM+ (LIMITED TIME ONLY)", BEIN SPORTS XTRA [HD]
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/UFC_Brand_Logo.svg/1920px-UFC_Brand_Logo.svg.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)",UFC [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/UFC_Brand_Logo.svg/1920px-UFC_Brand_Logo.svg.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", UFC [HD]
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8?checkedby:DN4-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.electricnow.tv/themes/custom/elec/electricnow/logo.png" group-title="FREEMIUM+ (LIMITED TIME ONLY)", ELECTRIC NOW [FHD]
