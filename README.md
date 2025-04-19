@@ -3,7 +3,7 @@
 Welcome to **DN4IPTV**, a curated collection of publicly available IPTV streams gathered from various online sources around the world. This playlist is **completely free to use** and is **not affiliated with or a substitute for any paid IPTV service**. Please note that the legality and availability of the streams may vary depending on your region, and this project is provided purely for educational and testing purposes.
 
 🔗 [Visit the Repository](https://github.com/DN4IPTV/DN4IPTV)
-
+🔗 [Learn more about DN4IPTV+](https://dn4iptv.github.io/DN4IPTV-PLUS/)
 ---
 
 ## 📂 What’s in the Playlist?
